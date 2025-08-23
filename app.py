@@ -10,6 +10,7 @@ collection = db["project_1"]
 @app.route("/", methods=["GET", "POST"])
 def form():
     if request.method == "POST":
+        print(request)
         try:
             name = request.form.get("name")
             email = request.form.get("email")
