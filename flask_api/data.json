@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.in",
+    "role": "student",
+    "age": 21,
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Priya Nair",
+    "email": "priya.nair@example.in",
+    "role": "teacher",
+    "age": 34,
+    "city": "Bengaluru"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.in",
+    "role": "student",
+    "age": 19,
+    "city": "Mumbai"
+  },
+  {
+    "id": 4,
+    "name": "Anita Iyer",
+    "email": "anita.iyer@example.in",
+    "role": "teacher",
+    "age": 41,
+    "city": "Chennai"
+  },
+  {
+    "id": 5,
+    "name": "Ishita Gupta",
+    "email": "ishita.gupta@example.in",
+    "role": "student",
+    "age": 23,
+    "city": "Kolkata"
+  },
+  {
+    "id": 6,
+    "name": "Suresh Reddy",
+    "email": "suresh.reddy@example.in",
+    "role": "teacher",
+    "age": 39,
+    "city": "Hyderabad"
+  },
+  {
+    "id": 7,
+    "name": "Neha Verma",
+    "email": "neha.verma@example.in",
+    "role": "student",
+    "age": 20,
+    "city": "Pune"
+  },
+  {
+    "id": 8,
+    "name": "Arjun Singh",
+    "email": "arjun.singh@example.in",
+    "role": "teacher",
+    "age": 44,
+    "city": "Jaipur"
+  },
+  {
+    "id": 9,
+    "name": "Kavya Das",
+    "email": "kavya.das@example.in",
+    "role": "student",
+    "age": 22,
+    "city": "Lucknow"
+  },
+  {
+    "id": 10,
+    "name": "Vikram Patil",
+    "email": "vikram.patil@example.in",
+    "role": "teacher",
+    "age": 48,
+    "city": "Nagpur"
+  }
+]
