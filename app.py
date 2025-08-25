@@ -31,6 +31,10 @@ def form():
 def success():
     return render_template("success.html")
 
+@app.route("/ashrarul")
+def showname():
+    return "This version is only pushed to ashrarulhaque branch"
+
 if __name__ == "__main__":
     app.run(debug=True)
 
