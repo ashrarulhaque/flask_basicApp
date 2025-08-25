@@ -1,5 +1,13 @@
 [
   {
+    "id": 0,
+    "name": "Ashrarul Haque",
+    "email": "dev.ashrarulhaque@gmail.com",
+    "role": "teacher",
+    "age": 28,
+    "city": "Kolkata"
+  },
+  {
     "id": 1,
     "name": "Aarav Sharma",
     "email": "aarav.sharma@example.in",
